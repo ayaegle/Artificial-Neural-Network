@@ -11,12 +11,21 @@ data expected_value
 Example Format: The AND Gate
 
 3 (Number of inputs)
+
 input1 (input prompt)
+
 input2 (input prompt)
+
 true (prediction results prompt)
+
 false (prediction results prompt)
+
 0 0 0 (data data expected_value)
+
 0 1 0 (data data expected_value)
+
 1 0 0 (data data expected_value)
+
 1 1 1 (data data expected_value)
+
 
